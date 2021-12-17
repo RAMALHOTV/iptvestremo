@@ -25,6 +25,8 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144 
 https://www.youtube.com/channel/UCojJ
 
+#EXTINF:-1,AXN HD teste 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://serverfulltop.com:80/nazare/123456/297
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://a5.vc/Sx8" group-title="DOCUMENTARIOS",ANIMAL PLANET FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://tv.meuserver.me:8080/665473/998445/157400
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://a5.vc/Sx8" group-title="DOCUMENTARIOS",ANIMAL PLANET HD
